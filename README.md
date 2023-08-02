@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharma24harshit&label=Profile%20views&color=0e75b6&style=flat" alt="sharma24harshit" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently working in <a href="https://pipli.com/" target="blank">**Pipli.ai**</a>
 
 - 👨‍💻 All of my projects are available at [https://sharma24harshit.github.io/](https://sharma24harshit.github.io/)
 
