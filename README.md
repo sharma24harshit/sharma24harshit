@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharma24harshit&label=Profile%20views&color=0e75b6&style=flat" alt="sharma24harshit" /> </p>
 
-- 🌱 I’m currently working at <a href="https://instape.com/" target="blank">**Instape Synergies**</a>
+- 🌱 I’m currently working at <a href="https://galific.com/" target="blank">**Galific Solutions**</a>
 
 - 👨‍💻 All of my projects are available at [https://sharma24harshit.github.io/](https://sharma24harshit.github.io/)
 
