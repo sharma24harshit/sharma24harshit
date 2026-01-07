@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sharma78655533@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZPDuXKLkPO62wyQdFDio8fS1tGHLz7aR/view?usp=sharing](https://drive.google.com/file/d/1ZPDuXKLkPO62wyQdFDio8fS1tGHLz7aR/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/12RUD36kEQth9_UQUPDs9tBxjRzfjLOQO/view?usp=sharing](https://drive.google.com/file/d/12RUD36kEQth9_UQUPDs9tBxjRzfjLOQO/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
