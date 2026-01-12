@@ -3,13 +3,40 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharma24harshit&label=Profile%20views&color=0e75b6&style=flat" alt="sharma24harshit" /> </p>
 
-- 🌱 I’m currently working at <a href="https://galific.com/" target="blank">**Galific Solutions**</a>
+<p align="left">Solution-driven Full Stack Developer with 2+ years of experience delivering scalable web applications using React.js,
+JavaScript, and modern UI optimization techniques. Builds responsive, user-centric interfaces while actively collaborating
+within agile, fast-paced startup environments. Drives performance improvements by writing clean, maintainable code and
+creating reusable components. Consistently translates product requirements into high-quality, high-performance user
+experiences.</p>
+<div style="display: flex; flex-direction: row; gap: 8px; align-items: center; justify-content: flex-start; flex-wrap: wrap;">
+<div style="max-width: 500px;">
+    <ul>
+      <li>🌱 I’m currently working at 
+        <a href="https://galific.com/" target="_blank"><strong>Galific Solutions</strong></a>
+      </li>
 
-- 👨‍💻 All of my projects are available at [https://sharma24harshit.github.io/](https://sharma24harshit.github.io/)
+   <li>👨‍💻 All of my projects are available at 
+   <a href="https://sharma24harshit.github.io/" target="_blank"> https://sharma24harshit.github.io/
+   </a>
+      </li>
 
-- 📫 How to reach me **sharma78655533@gmail.com**
+   <li>📫 How to reach me: <strong>sharma78655533@gmail.com</strong></li>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12RUD36kEQth9_UQUPDs9tBxjRzfjLOQO/view?usp=sharing](https://drive.google.com/file/d/12RUD36kEQth9_UQUPDs9tBxjRzfjLOQO/view?usp=sharing)
+   <li>📄 Know about my experiences: 
+        <a href="https://drive.google.com/file/d/12RUD36kEQth9_UQUPDs9tBxjRzfjLOQO/view?usp=sharing" target="_blank">
+          Resume Link
+        </a>
+      </li>
+    </ul>
+  </div>
+<div>
+    <img 
+      src="https://camo.githubusercontent.com/ff194145269d4ac5d2df4cc4f6c0d94c1432532a3dcca4b0e1be18ba214d12da/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966"
+      alt="github_img"
+      width="280"
+    />
+  </div>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
